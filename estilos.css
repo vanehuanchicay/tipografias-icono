@@ -1,0 +1,186 @@
+
+.icono1 {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  margin: 10px;
+
+}
+
+.icono2{
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.icono3{
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.icono4{
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.icono5{
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.beer{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  float: left;
+  position: absolute;
+  left: 70px;
+  top: 20px;
+}
+
+.pizza{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  float: left;
+  position: absolute;
+  left:250px;
+  top: 20px;
+
+}
+
+.peli{
+
+  width: 50px;
+  height:50px;
+  display: inline-block;
+  float: left;
+  position: absolute;
+  left:430px;
+  top: 20px;
+}
+
+.cactus{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  float: left;
+  position: absolute;
+  left:610px;
+  top: 20px;
+}
+
+.mono{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  float: left;
+  position: absolute;
+  left:790px;
+  top: 20px;
+}
+
+h2{
+  display: inline-block;
+  position: absolute;
+  top: 75px;
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+  color: #959490;
+}
+
+p{
+  font-family:Didact Gothic;
+}
+.texto1{
+  position: absolute;
+  left: 45px;
+  top: 90px;
+}
+
+.texto2{
+  position: absolute;
+  left: 240px;
+  top: 90px;
+}
+
+.texto3{
+  position: absolute;
+  left: 400px;
+  top: 90px;
+}
+
+.texto4{
+  position: absolute;
+  left: 596px;
+  top: 90px;
+}
+
+.texto5{
+  position: absolute;
+  left: 770px;
+  top: 90px;
+}
+
+
+.sub1 {
+  width: 150px;
+  height: 150px;
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  text-align: center;
+}
+
+.sub2{
+  width: 150px;
+  height: 150px;
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  left: 195px;
+  text-align: center;
+}
+
+.sub3{
+  width: 150px;
+  height: 150px;
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  left: 380px;
+  text-align: center;
+}
+
+.sub4{
+  width: 150px;
+  height: 150px;
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  left: 560px;
+  text-align: center;
+}
+
+.sub5{
+  width: 150px;
+  height: 150px;
+  margin: 0;
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  left: 740px;
+  text-align: center;
+}
